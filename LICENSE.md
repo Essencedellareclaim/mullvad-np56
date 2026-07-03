@@ -1,4 +1,4 @@
-
+Mullvad ultimate Plugin: P2P-support & no-logs-policy is the best Mullvad plugin, featuring P2P-support and no-logs-policy. Secure, fast, and optimized for privacy.
 
 
 
